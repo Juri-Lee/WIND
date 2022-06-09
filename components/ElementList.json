@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0,
+        "name": "avocado",
+        "path": "require('../icons/png/002-avocado.png')"
+    },
+    {
+        "id": 1,
+        "name": "tomato",
+        "path": "require('../icons/png/007-tomato-1.png')"
+    },
+    {
+        "id": 2,
+        "name": "lemon",
+        "path": "require('../icons/png/006-lemon.png')"
+    },
+    {
+        "id": 3,
+        "name": "garlic",
+        "path": "require('../icons/png/011-garlic.png')"
+    },
+    {
+        "id": 4,
+        "name": "carrot",
+        "path": "require('../icons/png/012-carrot-1.png')"
+    },
+    {
+        "id": 5,
+        "name": "peas",
+        "path": "require('../icons/png/013-peas.png')"
+    },
+    {
+        "id": 6,
+        "name": "mushroom",
+        "path": "../icons/png/035-mushroom-1.png"
+    },
+    {
+        "id": 7,
+        "name": "onion",
+        "path": "../icons/png/026-onion-2.png"
+    },
+    {
+        "id": 8,
+        "name": "bell pepper",
+        "path": "../icons/png/004-bell-pepper.png"
+    },
+    {
+        "id": 9,
+        "name": "cabbage",
+        "path": "../icons/png/017-cabbage.png"
+    },
+    {
+        "id": 10,
+        "name": "potato",
+        "path": "../icons/png/022-potato.png"
+    },
+    {
+        "id": 11,
+        "name": "coconut",
+        "path": "../icons/png/018-coconut.png"
+    },
+    {
+        "id": 12,
+        "name": "broccoli",
+        "path": "../icons/png/045-broccoli.png"
+    },
+    {
+        "id": 13,
+        "name": "lettuce",
+        "path": "../icons/png/024-lettuce-1.png"
+    },
+    {
+        "id": 14,
+        "name": "pumpkin",
+        "path": "../icons/png/025-pumpkin.png"
+    },
+    {
+        "id": 15,
+        "name": "cucumber",
+        "path": "../icons/png/033-cucumber.png"
+    },
+    {
+        "id": 16,
+        "name": "melon",
+        "path": "../icons/png/005-melon-1.png"
+    },
+    {
+        "id": 17,
+        "name": "banana",
+        "path": "../icons/png/028-banana.png"
+    },
+    {
+        "id": 18,
+        "name": "chili",
+        "path": "../icons/png/038-chili.png"
+    },
+    {
+        "id": 19,
+        "name": "radish",
+        "path": "../icons/png/040-radish.png"
+    },
+    {
+        "id": 20,
+        "name": "apple",
+        "path": "../icons/png/050-apple.png"
+    },
+    {
+        "id": 21,
+        "name": "berries",
+        "path": "../icons/png/014-berries.png"
+    },
+    {
+        "id": 22,
+        "name": "lime",
+        "path": "../icons/png/021-lime.png"
+    },
+    {
+        "id": 23,
+        "name": "beet",
+        "path": "../icons/png/031-beet.png"
+    },
+    {
+        "id": 24,
+        "name": "watermelon",
+        "path": "../icons/png/032-watermelon.png"
+    },
+    {
+        "id": 25,
+        "name": "plum",
+        "path": "../icons/png/030-plum.png"
+    },
+    {
+        "id": 26,
+        "name": "grenade",
+        "path": "../icons/png/015-grenade.png"
+    },
+    {
+        "id": 27,
+        "name": "artichoke",
+        "path": "../icons/png/016-artichoke.png"
+    },
+    {
+        "id": 28,
+        "name": "kiwi",
+        "path": "../icons/png/023-kiwi.png"
+    },
+    {
+        "id": 29,
+        "name": "pear",
+        "path": "../icons/png/003-pear.png"
+    },
+    {
+        "id": 30,
+        "name": "orange",
+        "path": "../icons/png/008-orange-1.png"
+    },
+    {
+        "id": 31,
+        "name": "eggplant",
+        "path": "../icons/png/043-eggplant.png"
+    },
+    {
+        "id": 32,
+        "name": "pineapple",
+        "path": "../icons/png/037-pineapple.png"
+    },
+    {
+        "id": 33,
+        "name": "mango",
+        "path": "../icons/png/036-mango.png"
+    },
+    {
+        "id": 34,
+        "name": "strawberry",
+        "path": "../icons/png/034-strawberry.png"
+    },
+    {
+        "id": 35,
+        "name": "cherry",
+        "path": "../icons/png/048-cherry.png"
+    }
+]
